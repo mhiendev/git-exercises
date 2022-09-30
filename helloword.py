@@ -2,4 +2,8 @@
 print("Hello world")
 print("Hello Git")
 print("Hello OSS Development")
+<<<<<<< HEAD
 print("Hello CTU")
+=======
+print("Hello CTU - CICT")
+>>>>>>> test_functions
